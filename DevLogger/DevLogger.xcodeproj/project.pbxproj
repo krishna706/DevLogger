@@ -10,7 +10,6 @@
 		DB26EB92206E171B00E87A7C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB26EB91206E171B00E87A7C /* AppDelegate.swift */; };
 		DB26EB94206E171B00E87A7C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB26EB93206E171B00E87A7C /* ViewController.swift */; };
 		DB26EB97206E171B00E87A7C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DB26EB95206E171B00E87A7C /* Main.storyboard */; };
-		DB26EB99206E171B00E87A7C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DB26EB98206E171B00E87A7C /* Assets.xcassets */; };
 		DB26EB9C206E171B00E87A7C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DB26EB9A206E171B00E87A7C /* LaunchScreen.storyboard */; };
 		DB26EBAC206E1B8400E87A7C /* RapidLogger.m in Sources */ = {isa = PBXBuildFile; fileRef = DB26EBA4206E1B8100E87A7C /* RapidLogger.m */; };
 		DB26EBAD206E1B8400E87A7C /* RapidDocumentDetailController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB26EBA7206E1B8200E87A7C /* RapidDocumentDetailController.swift */; };
@@ -24,7 +23,6 @@
 		DB26EB91206E171B00E87A7C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DB26EB93206E171B00E87A7C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		DB26EB96206E171B00E87A7C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		DB26EB98206E171B00E87A7C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DB26EB9B206E171B00E87A7C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DB26EB9D206E171B00E87A7C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DB26EBA3206E1B8000E87A7C /* DevLogger-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DevLogger-Bridging-Header.h"; sourceTree = "<group>"; };
@@ -78,7 +76,6 @@
 				DB26EBAB206E1B8400E87A7C /* RapidScreenRecorder.m */,
 				DB26EBA3206E1B8000E87A7C /* DevLogger-Bridging-Header.h */,
 				DB26EB95206E171B00E87A7C /* Main.storyboard */,
-				DB26EB98206E171B00E87A7C /* Assets.xcassets */,
 				DB26EB9A206E171B00E87A7C /* LaunchScreen.storyboard */,
 				DB26EB9D206E171B00E87A7C /* Info.plist */,
 			);
@@ -146,7 +143,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				DB26EB9C206E171B00E87A7C /* LaunchScreen.storyboard in Resources */,
-				DB26EB99206E171B00E87A7C /* Assets.xcassets in Resources */,
 				DB26EB97206E171B00E87A7C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
